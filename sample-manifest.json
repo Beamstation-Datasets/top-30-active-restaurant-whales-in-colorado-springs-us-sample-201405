@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8ba38e0e-1a5b-447a-8799-6b7f3ce7bb01",
+  "id_short": 201405,
+  "published_at": "2026-04-11T07:06:14Z",
+  "repo_name": "top-30-active-restaurant-whales-in-colorado-springs-us-sample-201405",
+  "sample_asset_name": "beamstation_201405_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/201405/beamstation_201405_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_records": 20,
+  "sample_sha256": "e35a256fd6309b654054917cf7af4665e2f3fd6dbefd347ca6031193b6e81d1d",
+  "sample_size_bytes": 97627,
+  "total_records": 302
+}

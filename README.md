@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Colorado Springs, US
 
-> Free BeamStation sample export with 32 rows and masked direct-contact fields.
+> Free BeamStation sample export with 12 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `201405` |
 | Location | Colorado Springs |
 | Category | Restaurants |
-| Full dataset size | 320 records |
-| Free sample size | 32 records (10.0%) |
-| Last export | 2026-04-22T06:47:04.247339+00:00 |
+| Full dataset size | 128 records |
+| Free sample size | 12 records (9.38%) |
+| Last export | 2026-04-29T08:44:49.011661+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-colorado-springs-us-sample-201405/releases/download/sample-latest/beamstation_201405_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
